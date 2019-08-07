@@ -1,6 +1,14 @@
 {
   "name": "preset-eva",
   "version": "0.1.0",
+  "author": {
+    "name": "Imed Adel",
+    "email": "aadelimed@gmail.com",
+    "url": "https://imedadel.me"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ImedAdel/preset-eva",
+  "repository": "https://github.com/ImedAdel/preset-eva",
   "main": "dist/index.js",
   "module": "dist/preset-eva.esm.js",
   "typings": "dist/index.d.ts",
